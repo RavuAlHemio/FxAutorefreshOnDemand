@@ -6,6 +6,7 @@
   "author": "Ond\u0159ej Ho\u0161ek",
   "license": "MPL 2.0",
   "version": "0.1",
+  "icon": "data/icon-48.png",
   "preferences": [{
     "name": "softRefreshMinutes",
     "title": "Soft refresh interval",
