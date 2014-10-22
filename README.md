@@ -1,4 +1,4 @@
-# Firefox Autorefresh on Demand
+# Firefox Auto-Refresh on Demand
 
 Firefox extension, written using the Firefox add-on SDK.
 
