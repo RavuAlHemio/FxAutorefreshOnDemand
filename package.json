@@ -1,0 +1,23 @@
+{
+  "name": "fx-autorefresh-on-demand-devel",
+  "title": "Auto-Refresh on Demand",
+  "id": "jid1-89xkd1xOUFHezg",
+  "description": "Automatically refreshes pages, optionally only if they have changed.",
+  "author": "Ond\u0159ej Ho\u0161ek",
+  "license": "MPL 2.0",
+  "version": "0.1",
+  "preferences": [{
+    "name": "softRefreshMinutes",
+    "title": "Soft refresh interval",
+    "description": "How often (in minutes) to check if the page changed, and refresh it if it did.",
+    "type": "integer",
+    "value": 5
+  },
+  {
+    "name": "hardRefreshMinutes",
+    "title": "Hard refresh interval",
+    "description": "How often (in minutes) to refresh the page, whether it has changed or not.",
+    "type": "integer",
+    "value": 120
+  }]
+}
